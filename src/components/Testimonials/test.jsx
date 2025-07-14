@@ -6,10 +6,10 @@ const Test = () => {
       <p className="test-subtitle">Some quotes from our happy customers</p>
       <div className="test-cards">
         <div className="test-card">
-          <img src="/src/assets/jut.png" alt="" className="test-avatar" />
+          <img src="/jut.png" alt="" className="test-avatar" />
           <br />
           <img
-            src="/src/assets/Stars.png"
+            src="/Stars.png"
             alt="rating"
             className="test-rating"
           />
@@ -17,10 +17,10 @@ const Test = () => {
           <p className="test-name">Luisa</p>
         </div>
         <div className="test-card">
-          <img src="/src/assets/jut.png" alt="" className="test-avatar" />
+          <img src="/jut.png" alt="" className="test-avatar" />
           <br />
           <img
-            src="/src/assets/Stars.png"
+            src="/Stars.png"
             alt="rating"
             className="test-rating"
           />
@@ -28,10 +28,10 @@ const Test = () => {
           <p className="test-name">Luisa</p>
         </div>
         <div className="test-card">
-          <img src="/src/assets/jut.png" alt="" className="test-avatar" />
+          <img src="/jut.png" alt="" className="test-avatar" />
           <br />
           <img
-            src="/src/assets/Stars.png"
+            src="/Stars.png"
             alt="rating"
             className="test-rating"
           />

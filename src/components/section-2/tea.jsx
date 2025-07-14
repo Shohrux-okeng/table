@@ -1,14 +1,14 @@
 import { useEffect, useState } from "react";
 import "./tea.css";
 const customImages = [
-  "/src/assets/11.png",
-  "/src/assets/image 1.png",
-  "/src/assets/img.png",
-  "/src/assets/img4.png",
-  "/src/assets/11.png",
-  "/src/assets/image 1.png",
-  "/src/assets/img.png",
-  "/src/assets/img4.png",
+  "/11.png",
+  "/image 1.png",
+  "/img.png",
+  "/img4.png",
+  "/11.png",
+  "/image 1.png",
+  "/img.png",
+  "/img4.png",
 ];
 
 const Tea = () => {

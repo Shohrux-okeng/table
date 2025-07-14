@@ -8,7 +8,7 @@ const Shop = () => {
         <div className="header-container">
           <div className="logo">
             <img
-              src="/src/assets/logo.png"
+              src="/logo.png"
               alt="Candleaf Logo"
               className="w-8 h-8"
             />
@@ -28,9 +28,9 @@ const Shop = () => {
           </nav>
 
           <div className="user-actions">
-            <img src="/src/assets/Profile.png" alt="" className="w-8 h-8" />
+            <img src="/Profile.png" alt="" className="w-8 h-8" />
             <button className="cart-button">
-              <img src="/src/assets/Cart.png" alt="" className="w-8 h-8" />
+              <img src="/Cart.png" alt="" className="w-8 h-8" />
             </button>
           </div>
         </div>
@@ -38,7 +38,7 @@ const Shop = () => {
 
       <section className="hero">
         <div className="hero-content">
-          <img src="/src/assets/hero-title.png" alt="leaf icon" />
+          <img src="/hero-title.png" alt="leaf icon" />
           <p className="hero-text">
             All handmade with natural soy wax, Candleaf is a companion for all{" "}
             <br /> your pleasure moments

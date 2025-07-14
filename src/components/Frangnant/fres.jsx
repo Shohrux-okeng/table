@@ -11,21 +11,21 @@ const Fres = () => {
           <p className="subtitle">Made for your home and for your wellness</p>
           <ul className="features">
             <li>
-              <img src="/src/assets/tu.png" alt="icon" className="icon" />
+              <img src="/tu.png" alt="icon" className="icon" />
               <strong>Eco-sustainable:</strong> All recyclable materials, 0% CO2
               emissions
             </li>
             <li>
-              <img src="/src/assets/tu.png" alt="icon" className="icon" />{" "}
+              <img src="/tu.png" alt="icon" className="icon" />{" "}
               <strong>Hypoallergenic:</strong> 100% natural, human friendly
               ingredients
             </li>
             <li>
-              <img src="/src/assets/tu.png" alt="icon" className="icon" />{" "}
+              <img src="/tu.png" alt="icon" className="icon" />{" "}
               <strong>Handmade:</strong> All candles are craftly made with love.
             </li>
             <li>
-              <img src="/src/assets/tu.png" alt="icon" className="icon" />{" "}
+              <img src="/tu.png" alt="icon" className="icon" />{" "}
               <strong>Long burning:</strong> No more waste. Created for last
               long.
             </li>
@@ -34,7 +34,7 @@ const Fres = () => {
         </div>
 
         <div className="fres-image">
-          <img src="/src/assets/image.png" alt="Candles" />
+          <img src="/image.png" alt="Candles" />
         </div>
       </div>
     </section>
